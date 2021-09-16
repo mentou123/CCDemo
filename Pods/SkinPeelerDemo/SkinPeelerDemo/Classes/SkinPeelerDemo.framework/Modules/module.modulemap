@@ -1,0 +1,6 @@
+framework module SkinPeelerDemo {
+  umbrella header "SkinPeelerDemo.h"
+
+  export *
+  module * { export * }
+}

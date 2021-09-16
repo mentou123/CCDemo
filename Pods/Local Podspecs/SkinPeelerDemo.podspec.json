@@ -1,0 +1,22 @@
+{
+  "name": "SkinPeelerDemo",
+  "version": "0.1.0",
+  "summary": "dfdfdfdff",
+  "description": "描述描述dfdfdfdffdfdfdfdffdfdfdfdffdfdfdfdffdfdfdfdff",
+  "homepage": "git@github.com:jimTest12345678/SkinPeelerDemoPublic.git",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "jimTest12345678": "22384999@qq.com"
+  },
+  "source": {
+    "git": "git@github.com:jimTest12345678/SkinPeelerDemoPublic.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "vendored_frameworks": "SkinPeelerDemo/Classes/*.framework"
+}
