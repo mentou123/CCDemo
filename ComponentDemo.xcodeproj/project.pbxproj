@@ -13,6 +13,10 @@
 		27096E9F26F334B300246DF9 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 27096E9E26F334B300246DF9 /* main.m */; };
 		27096EA726F3390100246DF9 /* CCMainTabBarController.m in Sources */ = {isa = PBXBuildFile; fileRef = 27096EA626F3390100246DF9 /* CCMainTabBarController.m */; };
 		623BBE4B192C59E5C39BC173 /* Pods_ComponentDemo.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 823A0C1187CBA95E1D80EB65 /* Pods_ComponentDemo.framework */; };
+		7684800C26F372AE003E09FA /* HomeViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 7684800A26F372AE003E09FA /* HomeViewController.m */; };
+		7684800D26F372AE003E09FA /* HomeViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 7684800B26F372AE003E09FA /* HomeViewController.xib */; };
+		7684801126F372C3003E09FA /* MineViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 7684800F26F372C3003E09FA /* MineViewController.m */; };
+		7684801226F372C3003E09FA /* MineViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 7684801026F372C3003E09FA /* MineViewController.xib */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +30,12 @@
 		27096E9E26F334B300246DF9 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		27096EA526F3390100246DF9 /* CCMainTabBarController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = CCMainTabBarController.h; sourceTree = "<group>"; };
 		27096EA626F3390100246DF9 /* CCMainTabBarController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = CCMainTabBarController.m; sourceTree = "<group>"; };
+		7684800926F372AE003E09FA /* HomeViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = HomeViewController.h; sourceTree = "<group>"; };
+		7684800A26F372AE003E09FA /* HomeViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = HomeViewController.m; sourceTree = "<group>"; };
+		7684800B26F372AE003E09FA /* HomeViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = HomeViewController.xib; sourceTree = "<group>"; };
+		7684800E26F372C3003E09FA /* MineViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = MineViewController.h; sourceTree = "<group>"; };
+		7684800F26F372C3003E09FA /* MineViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = MineViewController.m; sourceTree = "<group>"; };
+		7684801026F372C3003E09FA /* MineViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = MineViewController.xib; sourceTree = "<group>"; };
 		823A0C1187CBA95E1D80EB65 /* Pods_ComponentDemo.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_ComponentDemo.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		84694A259C7F87EFE78B19AB /* Pods-ComponentDemo.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ComponentDemo.debug.xcconfig"; path = "Target Support Files/Pods-ComponentDemo/Pods-ComponentDemo.debug.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -71,6 +81,12 @@
 				27096E9E26F334B300246DF9 /* main.m */,
 				27096EA526F3390100246DF9 /* CCMainTabBarController.h */,
 				27096EA626F3390100246DF9 /* CCMainTabBarController.m */,
+				7684800926F372AE003E09FA /* HomeViewController.h */,
+				7684800A26F372AE003E09FA /* HomeViewController.m */,
+				7684800B26F372AE003E09FA /* HomeViewController.xib */,
+				7684800E26F372C3003E09FA /* MineViewController.h */,
+				7684800F26F372C3003E09FA /* MineViewController.m */,
+				7684801026F372C3003E09FA /* MineViewController.xib */,
 			);
 			path = ComponentDemo;
 			sourceTree = "<group>";
@@ -152,6 +168,8 @@
 			files = (
 				27096E9C26F334B300246DF9 /* LaunchScreen.storyboard in Resources */,
 				27096E9926F334B300246DF9 /* Assets.xcassets in Resources */,
+				7684800D26F372AE003E09FA /* HomeViewController.xib in Resources */,
+				7684801226F372C3003E09FA /* MineViewController.xib in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -206,7 +224,9 @@
 			files = (
 				27096E8E26F334AF00246DF9 /* AppDelegate.m in Sources */,
 				27096EA726F3390100246DF9 /* CCMainTabBarController.m in Sources */,
+				7684801126F372C3003E09FA /* MineViewController.m in Sources */,
 				27096E9F26F334B300246DF9 /* main.m in Sources */,
+				7684800C26F372AE003E09FA /* HomeViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
