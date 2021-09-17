@@ -6,11 +6,11 @@
 	<dict>
 		<key>Headers/SkinPeelerDemo.h</key>
 		<data>
-		ZLpYM5l04hKgZjm9eYtWU1JLxD8=
+		F1QWmzaNoVJbOnRy20GYDWXHImo=
 		</data>
 		<key>Headers/TestManager.h</key>
 		<data>
-		/q3V/04W2hnaRf9gx5pnZVy0ZtE=
+		XdnboPE95Q6hw0Iv39Ib+/tlhfQ=
 		</data>
 		<key>Info.plist</key>
 		<data>
@@ -27,22 +27,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			ZLpYM5l04hKgZjm9eYtWU1JLxD8=
+			F1QWmzaNoVJbOnRy20GYDWXHImo=
 			</data>
 			<key>hash2</key>
 			<data>
-			VaflC1XaHDUJEWFVQqwIKV4PoSPNsxR+i9w4Cuclxxs=
+			71v0EU2NO9f/DcpxbggcljnoDHZqHpZMbAfysg2NbGA=
 			</data>
 		</dict>
 		<key>Headers/TestManager.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			/q3V/04W2hnaRf9gx5pnZVy0ZtE=
+			XdnboPE95Q6hw0Iv39Ib+/tlhfQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			JlHHsPuEzxoH7HppnZbwkEyL/w6sy/7wzE7y5sNPJ0Q=
+			x3J35FVhr9Kp40BwHXm8K1aY0j7M4VsT8gm78IZC5iU=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

@@ -6,6 +6,7 @@
 //
 
 #import "HomeViewController.h"
+#import <SkinPeelerDemo/SkinPeelerDemo.h>
 
 @interface HomeViewController ()
 
@@ -16,6 +17,7 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     self.title = @"首页";
+    self.view.backgroundColor = [TestManager getTitleColor];
 }
 
 
