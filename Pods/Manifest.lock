@@ -4,7 +4,7 @@ PODS:
 
 DEPENDENCIES:
   - BeeHive
-  - "SkinPeelerDemo (from `git@github.com:jimTest12345678/SkinPeelerDemoPublic.git`)"
+  - "SkinPeelerDemo (from `git@github.com:jimTest12345678/SkinPeelerDemoPublic.git`, tag `0.1.0`)"
 
 SPEC REPOS:
   https://github.com/CocoaPods/Specs.git:
@@ -13,16 +13,17 @@ SPEC REPOS:
 EXTERNAL SOURCES:
   SkinPeelerDemo:
     :git: "git@github.com:jimTest12345678/SkinPeelerDemoPublic.git"
+    :tag: 0.1.0
 
 CHECKOUT OPTIONS:
   SkinPeelerDemo:
-    :commit: 9897fe76027e6d9e5b2a2e54ccf23abb6399bf7d
     :git: "git@github.com:jimTest12345678/SkinPeelerDemoPublic.git"
+    :tag: 0.1.0
 
 SPEC CHECKSUMS:
   BeeHive: 64c01ddec33b9ef8813701e075eeb732327d0f75
   SkinPeelerDemo: eaf3308ce02954f375056a31cd8c16d4b486a3f6
 
-PODFILE CHECKSUM: 07f8dc0f402174e2f7e4f8e6c7c9b76109cba0a6
+PODFILE CHECKSUM: effd32ef342748769f72975960940e985b5f64a5
 
 COCOAPODS: 1.10.1
